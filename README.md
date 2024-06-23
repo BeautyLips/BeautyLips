@@ -1,7 +1,6 @@
 BeautyLips (pronounced /BeautyLibs/, like BeautyLibs) - where the 'b' has fallen, just like project builds sometimes do.
 
 - ⚡ Beauty Libs and development environments
-- 🌱 Сonventions and recommendations for programs
 - 💞️ [GurovDmitriy](https://github.com/GurovDmitriy)
 - 📫 beautylips.libs@gmail.com
 
